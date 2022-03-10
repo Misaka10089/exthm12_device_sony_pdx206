@@ -1,5 +1,5 @@
 This repository contains common device configuration for Sony Xperia 5 II
-
+Author：SiHuan
 ## Copyright
 
 ```
